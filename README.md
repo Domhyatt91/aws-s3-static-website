@@ -40,7 +40,7 @@ https://github.com/Domhyatt91/aws-s3-static-website
 
 ## Live Website
 
-(Add your Amazon S3 website URL here.)
+http://domhyatt91-static-website.s3-website.us-east-2.amazonaws.com/
 
 ## Author
 
