@@ -44,6 +44,6 @@ https://github.com/Domhyatt91/aws-s3-static-website
 
 ## Author
 
-**Dom Hyatt**
+**Dominic Hyatt**
 
 Aspiring AWS & DevOps Engineer
